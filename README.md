@@ -6,7 +6,6 @@ Project Link - https://saransh-react-dev-app.netlify.app/
 
 ## Available Scripts
 
-In the project directory, you can run:localhost:3000
 
 ### `npm start`
 
